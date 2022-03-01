@@ -1,0 +1,7 @@
+{
+    "title": "Ecokonnect",
+    "description": "Instagram clone",
+    "baseUrl": "https://instagram-clone-21d9b.firebaseio.com/",
+    "audioscrobbler": "https://ws.audioscrobbler.com/2.0",
+    "lyricsOvh": "https://api.lyrics.ovh"
+}
